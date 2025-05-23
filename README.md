@@ -1,7 +1,4 @@
-CompEng. student working on personal projects.
-
-
-**My Stack**
+**Stack**
 
 <img alt="Java" src="media/stack/java.svg" height="35" /> &nbsp;
 <img alt="Golang" src="media/stack/go.svg" height="35" /> &nbsp;
